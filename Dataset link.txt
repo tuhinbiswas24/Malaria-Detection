@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/vappiah/Machine-Learning-Tutorials/main/datasets/malaria_clin_data.csv
